@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PruebaSCI.Api/PruebaSCI.Api.csproj" />
+  <Project Path="PruebaSCI.Application/PruebaSCI.Application.csproj" />
+  <Project Path="PruebaSCI.Domain/PruebaSCI.Domain.csproj" />
+  <Project Path="PruebaSCI.Infrastructure/PruebaSCI.Infrastructure.csproj" />
+  <Project Path="PruebaSCI.Tests/PruebaSCI.Tests.csproj" />
+</Solution>

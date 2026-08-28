@@ -1,0 +1,14 @@
+## .NET build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Test results
+TestResults/
+
+## IDE files
+.vscode/
