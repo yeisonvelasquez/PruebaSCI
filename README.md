@@ -63,7 +63,7 @@ El script es idempotente para la base de datos y la tabla. Los procedimientos se
 ## Ejecutar la API desde PowerShell
 
 ```powershell
-cd C:\Proyectos\PruebaSCI
+cd ruta de la carpeta del proyecto ejemplo: "C:\Proyectos\PruebaSCI"
 dotnet restore
 dotnet build PruebaSCI.slnx
 dotnet run --project .\PruebaSCI.Api\PruebaSCI.Api.csproj
@@ -92,7 +92,7 @@ Swagger debe abrirse mediante `http://` o `https://`, nunca mediante una URL `fi
 ## Ejecutar las pruebas desde PowerShell
 
 ```powershell
-cd C:\Proyectos\PruebaSCI
+cd ruta de la carpeta del proyecto ejemplo: "C:\Proyectos\PruebaSCI"
 dotnet test .\PruebaSCI.Tests\PruebaSCI.Tests.csproj
 ```
 
